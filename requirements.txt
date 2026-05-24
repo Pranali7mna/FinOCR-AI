@@ -1,0 +1,11 @@
+streamlit>=1.35
+pytesseract>=0.3.10
+opencv-python>=4.8
+pillow>=10.0
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+pymupdf>=1.24
+pypdf>=4.0
+SpeechRecognition>=3.10
+pocketsphinx>=5.0
